@@ -1,1 +1,2 @@
 THis is file2.txt
+THis line added in file2.txt from Local Repo
