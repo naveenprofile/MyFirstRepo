@@ -1,1 +1,2 @@
 This is my fiest1.txt
+New line in file1.txt
